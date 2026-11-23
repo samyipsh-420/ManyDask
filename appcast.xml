@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ManyDask</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Mon, 23 Nov 2026 05:11:00 +0800</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.2.1</title>
+            <pubDate>Tue, 24 Nov 2026 00:19:13 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/samyipsh-420/ManyDask/releases/download/v0.2.0/ManyDask-0.2.0-arm64.zip" length="62569813" type="application/octet-stream" sparkle:edSignature="rnEbypbfaJqxODUD+w65OyxpOhYxslEGvdP+bAoNnXQ4MkyguQ1QiGFset0606Nn2xjFhFwZixUPB1U96Ww3AQ=="></enclosure>
+            <enclosure url="https://github.com/samyipsh-420/ManyDask/releases/download/v0.2.1/ManyDask-0.2.1-arm64.zip" length="62612273" type="application/octet-stream" sparkle:edSignature="6ekHmQPDwuUcLb4TovwEZGz8uqG18BreKPJZ81ulgr8mMft9POXWfhw+FVJvSSDpk/FIzRvg7sBxEfsT9W7tCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4pIQueU/eYNGUCca4xltNfZ4lC7xKX071GfI1UQs/PJ8DuRAbC4N+JoE60gdwaPgvFvY+WNBOBCKJdbS3KMzCA==
+edSignature: 3cwXcZ+r8vsetrfrSYbnCQPMKHv7pptgOdJw3Y6ZWrMRKPqDRhBk60KQtJstj0rwQoYfPEwzReZA3vFxw9KJAw==
 length: 1131
 -->
